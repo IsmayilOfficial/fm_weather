@@ -1,6 +1,10 @@
-#live -  https://expo.io/@freeman2020/projects/fm_weather
-
 # fm_weather
+
+
+#Go to this site for use app -  https://expo.io/@freeman2020/projects/fm_weather
+
+#OR
+
 
 Weather app which created with help expo . Cross platform you can run it on ios,android devices also on web.
 
