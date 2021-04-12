@@ -1,6 +1,6 @@
 # fm_weather
 
-# Weather app which was created with help of the expo. Cross-platform you can run it on ios, android devices.
+# Weather app which was created with help of the expo. This is a cross-platform app, you can run it on ios, android devices.
 
 
 #Go to this site for use the app -  https://expo.io/@freeman2020/projects/fm_weather
