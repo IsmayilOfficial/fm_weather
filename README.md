@@ -6,7 +6,7 @@
 #OR
 
 
-Weather app which created with help expo . Cross platform you can run it on ios,android devices also on web.
+Weather app which created with help of expo . Cross platform you can run it on ios,android devices also on web.
 
 for run app please follow this steps:
 - clone app
