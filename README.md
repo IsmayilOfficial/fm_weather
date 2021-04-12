@@ -1,4 +1,5 @@
-#Not finished yet
+#live -  https://expo.io/@freeman2020/projects/fm_weather
+
 # fm_weather
 
 Weather app which created with help expo . Cross platform you can run it on ios,android devices also on web.
@@ -12,4 +13,3 @@ for run app please follow this steps:
 - expo start
 - open web browser and start using . You can use app with emulators(both android and ios) or with real device using qrcode (first install Expo go to your device).
 
-*live -under construction
