@@ -1,19 +1,18 @@
 # fm_weather
 
+# Weather app which was created with help of the expo. Cross-platform you can run it on ios, android devices.
 
-#Go to this site for use app -  https://expo.io/@freeman2020/projects/fm_weather
+
+#Go to this site for use the app -  https://expo.io/@freeman2020/projects/fm_weather
 
 #OR
 
-
-Weather app which created with help of expo . Cross platform you can run it on ios,android devices also on web.
-
-for run app please follow this steps:
-- clone app
+# follow this steps:
+- clone project
 - install node js
 - cd fm_weather
 - install expo : npm install --global expo-cli
 - npm install
 - expo start
-- open web browser and start using . You can use app with emulators(both android and ios) or with real device using qrcode (first install Expo go to your device).
+- Open a web browser and start using it. You can use the app with emulators(both android and ios) or with the real device using QRcode (first install Expo go to your device).
 
